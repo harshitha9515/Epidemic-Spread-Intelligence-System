@@ -47,6 +47,7 @@ Epidemic-Spread-Intelligence/
 └── sample_data.xlsx      # Test dataset (optional)
 
 ⚙️ Installation
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/Epidemic-Spread-Intelligence.git
 cd Epidemic-Spread-Intelligence
